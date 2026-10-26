@@ -1,4 +1,4 @@
-# solana-mcp-server
+  # solana-mcp-server
 
 [![npm version](https://img.shields.io/npm/v/solana-mcp-server)](https://www.npmjs.com/package/solana-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
